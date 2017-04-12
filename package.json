@@ -1,0 +1,26 @@
+{
+  "name": "botwupgradeguide",
+  "version": "1.0.0",
+  "description": "Tool for keeping track of required items for upgrading equipment in Zelda: Breath of the Wild",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "sqlite": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MystikDan/BotWUpgradeGuide.git"
+  },
+  "author": "Dan Scannell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MystikDan/BotWUpgradeGuide/issues"
+  },
+  "homepage": "https://github.com/MystikDan/BotWUpgradeGuide#readme"
+}

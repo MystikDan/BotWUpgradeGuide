@@ -1,0 +1,82 @@
+Armor Name, Armor Set, Armor Bonus, Where to Acquire, Initial Defense(, Defense Upon Upgrade, Material Used to Upgrade, Quantity of Item Needed(, repeat for all materials))
+Amber Earrings,None,Heat Resistance,Jeweler in Gerudo Town,4,7,Amber,5,Flint,3,12,Amber,10,Flint,3,18,Amber,20,Flint,3,28,Amber,30,Flint,3
+Ancient Helm,Ancient,Guardian Resistance,Akkala Ancient Tech Lab,4,7,Ancient Screw,5,Ancient Spring,5,12,Ancient Spring,15,Ancient Gear,10,18,Ancient Shaft,15,Ancient Core,5,28,Star Fragment,1,Giant Ancient Core,2
+Ancient Cuirass,Ancient,Guardian Resistance,Akkala Ancient Tech Lab,4,7,Ancient Screw,5,Ancient Spring,5,12,Ancient Spring,15,Ancient Gear,10,18,Ancient Shaft,15,Ancient Core,5,28,Star Fragment,1,Giant Ancient Core,2
+Ancient Greaves,Ancient,Guardian Resistance,Akkala Ancient Tech Lab,4,7,Ancient Screw,5,Ancient Spring,5,12,Ancient Spring,15,Ancient Gear,10,18,Ancient Shaft,15,Ancient Core,5,28,Star Fragment,1,Ancient Core,2
+Barbarian Helm,Barbarian,Increases Attack,Tu Ka'loh Shrine,3,4,Lynel Horn,1,8,Lynel Horn,3,Lynel Hoof,2,12,Lynel Hoof,4,Lynel Guts,1,20,Lynel Guts,2,Shard of Dinraal's Horn,1
+Barbarian Armor,Barbarian,Increases Attack,Tu Ka'loh Shrine,3,4,Lynel Horn,1,8,Lynel Horn,3,Lynel Hoof,2,12,Lynel Hoof,4,Lynel Guts,1,20,Lynel Guts,2,Shard of Dinraal's Horn,1
+Barbarian Leg Wraps,Barbarian,Increases Attack,Tu Ka'loh Shrine,3,4,Lynel Horn,1,8,Lynel Horn,3,Lynel Hoof,2,12,Lynel Hoof,4,Lynel Guts,1,20,Lynel Guts,2,Shard of Naydra's Horn,1
+Bokoblin Mask,None,Bokoblin Disguise,Kilton's Monster Shop,3
+Champion's Tunic,None,See Enemy Health,Capture Memories Quest,5,8,Silent Princess,3,14,Silent Princess,3,Shard of Farosh's Horn,2,22,Silent Princess,3,Shard of Naydra's Horn,2,32,Silent Princess,10,Shard of Dinraal's Horn,2
+Climber's Bandana,Climber,Increases Climb Speed,Ree Dahee Shrine,3,5,Keese Wing,3,Rushroom,3,8,Electric Keese Wing,5,Hightail Lizard,5,12,Ice Keese Wing,5,Hot-Footed Frog,10,20,Fire Keese Wing,5,Swift Violet,15
+Climbing Gear,Climber,Increases Climb Speed,Chaas Qeta Shrine,3,5,Keese Wing,3,Rushroom,3,8,Electric Keese Wing,5,Hightail Lizard,5,12,Ice Keese Wing,5,Hot-Footed Frog,10,20,Fire Keese Wing,5,Swift Violet,15
+Climbing Boots,Climber,Increases Climb Speed,Tahno O'ah Shrine,3,5,Keese Wing,3,Rushroom,3,8,Electric Keese Wing,5,Hightail Lizard,5,12,Ice Keese Wing,5,Hot-Footed Frog,10,20,Fire Keese Wing,5,Swift Violet,15
+Dark Hood,Dark,Increases Speed at Night,Kilton's Monster Shop,3
+Dark Tunic,Dark,Increases Speed at Night,Kilton's Monster Shop,3
+Dark Trousers,Dark,Increases Speed at Night,Kilton's Monster Shop,3
+Desert Voe Headband,Desert Voe,Heat Resistance,Shop in Gerudo Secret Club or Rhondson's Shop in Tarrey Town,3,5,White Chuchu Jelly,3,8,White Chuchu Jelly,5,Ice Keese Wing,3,12,Ice Keese Wing,8,Icy Lizalfos Tail,3,20,Icy Lizalfos Tail,10,Sapphire,5
+Desert Voe Spaulder,Desert Voe,Heat Resistance,Shop in Gerudo Secret Club or Rhondson's Shop in Tarrey Town,3,5,White Chuchu Jelly,3,8,White Chuchu Jelly,5,Ice Keese Wing,3,12,Ice Keese Wing,8,Icy Lizalfos Tail,3,20,Icy Lizalfos Tail,10,Sapphire,5
+Desert Voe Trousers,Desert Voe,Heat Resistance,Shop in Gerudo Secret Club or Rhondson's Shop in Tarrey Town,3,5,White Chuchu Jelly,3,8,White Chuchu Jelly,5,Ice Keese Wing,3,12,Ice Keese Wing,8,Icy Lizalfos Tail,3,20,Icy Lizalfos Tail,10,Sapphire,5
+Diamond Circlet,None,Guardian Resistance,Jeweler in Gerudo Town or Chest Under Tu Ka'losh Shrine,4,7,Diamond,2,Flint,3,12,Diamond,4,Flint,3,18,Diamond,6,Star Fragment,1,28,Diamond,10,Star Fragment,1
+Fierce Deity Mask,Fierce Diety,Increases Attack,Amiibo,3,5,Hinox Toenail,5,Dinraal's Scale,1,8,Hinox Tooth,5,Dinraal's Claw,1,12,Hinox Guts,5,Shard of Dinraal's Fang,1,20,Lynel Guts,5,Shard of Dinraal's Horn,1
+Fierce Deity Mask,Fierce Diety,Increases Attack,Amiibo,3,5,Hinox Toenail,5,Naydra's Scale,1,8,Hinox Tooth,5,Naydra's Claw,1,12,Hinox Guts,5,Shard of Naydra's Fang,1,20,Lynel Guts,5,Shard of Naydra's Horn,1
+Fierce Deity Mask,Fierce Diety,Increases Attack,Amiibo,3,5,Hinox Toenail,5,Farosh's Scale,1,8,Hinox Tooth,5,Farosh's Claw,1,12,Hinox Guts,5,Shard of Farosh's Fang,1,20,Lynel Guts,5,Shard of Farosh's Horn,1
+Flamebreaker Helm,Flamebreaker,Flame Guard,Shop in Goron City,3,5,Fireproof Lizard,1,Moblin Horn,2,8,Fireproof Lizard,3,Moblin Fang,4,12,Smotherwing Butterfly,3,Moblin Guts,3,20,Smotherwing Butterfly,5,Hinox Guts,2
+Flamebreaker Amor,Flamebreaker,Flame Guard,Shop in Goron City,3,5,Fireproof Lizard,1,Moblin Horn,2,8,Fireproof Lizard,3,Moblin Fang,4,12,Smotherwing Butterfly,3,Moblin Guts,3,20,Smotherwing Butterfly,5,Hinox Guts,2
+Flamebreaker Boots,Flamebreaker,Flame Guard,Shop in Goron City,3,5,Fireproof Lizard,1,Moblin Horn,2,8,Fireproof Lizard,3,Moblin Fang,4,12,Smotherwing Butterfly,3,Moblin Guts,3,20,Smotherwing Butterfly,5,Hinox Guts,2
+Gerudo Veil,Gerudo,None,Forbidden City Entry (Main Quest),1
+Gerudo Top,Gerudo,None,Forbidden City Entry (Main Quest),1
+Gerudo Sirwal,Gerudo,None,Forbidden City Entry (Main Quest),1
+Cap of the Hero,Armor of the Hero,None,Amiibo,3,5,Ruby,1,Star Fragment,1,8,Ruby,3,Star Fragment,2,12,Ruby,5,Star Fragment,3,20,Ruby,10,Star Fragment,4
+Tunic of the Hero,Armor of the Hero,None,Amiibo,3,5,Ruby,1,Star Fragment,1,8,Ruby,3,Star Fragment,2,12,Ruby,5,Star Fragment,3,20,Ruby,10,Star Fragment,4
+Trousers of the Hero,Armor of the Hero,None,Amiibo,3,5,Ruby,1,Star Fragment,1,8,Ruby,3,Star Fragment,2,12,Ruby,5,Star Fragment,3,20,Ruby,10,Star Fragment,4
+Hylian Hood,Hylian,None,Shop in Hateno Village,3,5,Bokoblin Horn,5,8,Bokoblin Horn,8,Bokoblin Fang,5,12,Bokoblin Fang,10,Bokoblin Guts,5,20,Bokoblin Guts,15,Amber,15
+Hylian Tunic,Hylian,None,Shop in Hateno Village,3,5,Bokoblin Horn,5,8,Bokoblin Horn,8,Bokoblin Fang,5,12,Bokoblin Fang,10,Bokoblin Guts,5,20,Bokoblin Guts,15,Amber,15
+Hylian Trousers,Hylian,None,Shop in Hateno Village,3,5,Bokoblin Horn,5,8,Bokoblin Horn,8,Bokoblin Fang,5,12,Bokoblin Fang,10,Bokoblin Guts,5,20,Bokoblin Guts,15,Amber,15
+Lizalfos Mask,None,Lizalfos Disguise,Kilton's Monster Shop,3
+Lynel Mask,None,Lynel Disguise,Kilton's Monster Shop,3
+Moblin Mask,None,Moblin Disguise,Kilton's Monster Shop,3
+Opal Earrings,None,Increases Speed while Swimming,Jeweler in Gerudo Town,3,5,Opal,5,Flint,3,8,Opal,8,Flint,3,12,Opal,16,Flint,3,20,Opal,20,Flint,3
+Old Shirt,Worn,None,Chest in Shrine of Resurrection,1
+Radiant Mask,Radiant,Stal Lure,Shop in Gerudo Secret Club,3,5,Luminous Stone,5,Bokoblin Guts,3,8,Luminous Stone,8,Moblin Guts,3,12,Luminous Stone,10,Molduga Guts,2,20,Luminous Stone,20,Lynel Guts,1
+Radiant Shirt,Radiant,Stal Lure,Shop in Gerudo Secret Club,3,5,Luminous Stone,5,Bokoblin Guts,3,8,Luminous Stone,8,Moblin Guts,3,12,Luminous Stone,10,Molduga Guts,2,20,Luminous Stone,20,Lynel Guts,1
+Radiant Tights,Radiant,Stal Lure,Shop in Gerudo Secret Club,3,5,Luminous Stone,5,Bokoblin Guts,3,8,Luminous Stone,8,Moblin Guts,3,12,Luminous Stone,10,Molduga Guts,2,20,Luminous Stone,20,Lynel Guts,1
+Rubber Helm,Rubber,Shock Resistance,Thunder Magnet Side Quest,3,5,Yellow Chuchu Jelly,3,8,Yellow Chuchu Jelly,5,Voltfruit,5,12,Zapshroom,5,Yellow Lizalfos Tail,5,20,Yellow Lizalfos Tail,10,Topaz,10
+Rubber Armor,Rubber,Shock Resistance,Toh Yahsa Shrine,3,5,Yellow Chuchu Jelly,3,8,Yellow Chuchu Jelly,5,Voltfruit,5,12,Zapshroom,5,Yellow Lizalfos Tail,5,20,Yellow Lizalfos Tail,10,Topaz,10
+Rubber Tights,Rubber,Shock Resistance,Qukah Nata Shrine,3,5,Yellow Chuchu Jelly,3,8,Yellow Chuchu Jelly,5,Voltfruit,5,12,Zapshroom,5,Yellow Lizalfos Tail,5,20,Yellow Lizalfos Tail,10,Topaz,10
+Ruby Circlet,None,Cold Resistance,Jeweler in Gerudo Town,3,5,Ruby,2,Flint,3,8,Ruby,4,Flint,3,12,Ruby,6,Star Fragment,1,20,Ruby,10,Star Fragment,1
+Sapphire Circlet,None,Heat Resistance,Jeweler in Gerudo Town,3,5,Sapphire,2,Flint,3,8,Sapphire,4,Flint,3,12,Sapphire,6,Star Fragment,1,20,Sapphire,10,Star Fragment,1
+Sheik's Mask,None,Increases Stealth,Amiibo,2,4,Silent Princess,1,Star Fragment,1,6,Silent Princess,2,Star Fragment,2,9,Silent Princess,3,Star Fragment,3,16,Silent Princess,4,Star Fragment,4
+Cap of the Sky,Armor of the Sky,None,Amiibo,3,5,Sapphire,1,Star Fragment,1,8,Sapphire,3,Star Fragment,2,12,Sapphire,5,Star Fragment,3,20,Sapphire,10,Star Fragment,4
+Tunic of the Sky,Armor of the Sky,None,Amiibo,3,5,Sapphire,1,Star Fragment,1,8,Sapphire,3,Star Fragment,2,12,Sapphire,5,Star Fragment,3,20,Sapphire,10,Star Fragment,4
+Trousers of the Sky,Armor of the Sky,None,Amiibo,3,5,Sapphire,1,Star Fragment,1,8,Sapphire,3,Star Fragment,2,12,Sapphire,5,Star Fragment,3,20,Sapphire,10,Star Fragment,4
+Sand Boots,None,Walk Faster on Sand,The Eighth Heroine (Side Quest),3,5,Molduga Fin,5,Hightail Lizard,10,8,Molduga Fin,10,Swift Carrot,10,12,Molduga Guts,3,Rushroom,15,20,Molduga Guts,5,Swift Violet,15
+Snow Boots,None,Walk Faster on Snow,The Forgotten Sword (Side Quest),3,5,Octorok Tentacle,5,Hightail Lizard,10,8,Octo Balloon,5,Swift Carrot,10,12,Octorok Eyeball,5,Rushroom,15,20,Naydra's Scale,2,Swift Violet,15
+Snowquill Headdress,Snowquill,Cold Resistance,Shop in Rito Village,3,5,Red Chuchu Jelly,3,8,Red Chuchu Jelly,5,Warm Safflina,3,12,Fire Keese Wing,8,Sunshroom,5,20,Red Lizalfos Tail,10,Ruby,5
+Snowquill Tunic,Snowquill,Cold Resistance,Shop in Rito Village,3,5,Red Chuchu Jelly,3,8,Red Chuchu Jelly,5,Warm Safflina,3,12,Fire Keese Wing,8,Sunshroom,5,20,Red Lizalfos Tail,10,Ruby,5
+Snowquill Trousers,Snowquill,Cold Resistance,Shop in Rito Village,3,5,Red Chuchu Jelly,3,8,Red Chuchu Jelly,5,Warm Safflina,3,12,Fire Keese Wing,8,Sunshroom,5,20,Red Lizalfos Tail,10,Ruby,5
+Soldier's Helm,Soldier,None,Shop in Hateno Village,4,7,Chuchu Jelly,5,Bokoblin Guts,3,12,Keese Eyeball,3,Moblin Guts,3,18,Lizalfos Tail,2,Hinox Guts,2,28,Lynel Hoof,4,Lynel Guts,2
+Soldier's Armor,Soldier,None,Shop in Hateno Village,4,7,Chuchu Jelly,5,Bokoblin Guts,3,12,Keese Eyeball,3,Moblin Guts,3,18,Lizalfos Tail,3,Hinox Guts,1,28,Lynel Hoof,4,Lynel Guts,2
+Soldier's Greaves,Soldier,None,Shop in Hateno Village,4,7,Chuchu Jelly,5,Bokoblin Guts,3,12,Keese Eyeball,3,Moblin Guts,3,18,Lizalfos Tail,3,Hinox Guts,1,28,Lynel Hoof,4,Lynel Guts,2
+Stealth Mask,Stealth,Increases Stealth,Shop in Kakariko Village,2,4,Blue Nightshade,3,6,Blue Nightshade,5,Sunset Firefly,5,9,Silent Shroom,8,Sneaky River Snail,5,16,Stealthfin Trout,10,Silent Princess,5
+Stealth Chest Guard,Stealth,Increases Stealth,Shop in Kakariko Village,2,4,Blue Nightshade,3,6,Blue Nightshade,5,Sunset Firefly,5,9,Silent Shroom,8,Sneaky River Snail,5,16,Stealthfin Trout,10,Silent Princess,5
+Stealth Tights,Stealth,Increases Stealth,Shop in Kakariko Village,2,4,Blue Nightshade,3,6,Blue Nightshade,5,Sunset Firefly,5,9,Silent Shroom,8,Sneaky River Snail,5,16,Stealthfin Trout,10,Silent Princess,5
+Cap of Time,Armor of Time,None,Amiibo,3,5,Amber,3,Star Fragment,1,8,Amber,5,Star Fragment,2,12,Amber,15,Star Fragment,3,20,Amber,30,Star Fragment,4
+Tunic of Time,Armor of Time,None,Amiibo,3,5,Amber,3,Star Fragment,1,8,Amber,5,Star Fragment,2,12,Amber,15,Star Fragment,3,20,Amber,30,Star Fragment,4
+Trousers of Time,Armor of Time,None,Amiibo,3,5,Amber,3,Star Fragment,1,8,Amber,5,Star Fragment,2,12,Amber,15,Star Fragment,3,20,Amber,30,Star Fragment,4
+Thunder Helm,None,Full Resistance to Lightning,The Thunder Helm (Side Quest),3
+Topaz Earrings,None,Shock Resistance,Jeweler in Gerudo Town,3,5,Topaz,2,Flint,3,8,Topaz,4,Flint,3,12,Topaz,6,Star Fragment,1,18,Topaz,10,Star Fragment,1
+Cap of Twilight,Armor of Twilight,none,Amiibo,3,5,Topaz,1,Star Fragment,1,8,Topaz,3,Star Fragment,2,12,Topaz,5,Star Fragment,3,20,Topaz,10,Star Fragment,4
+Tunic of Twilight,Armor of Twilight,none,Amiibo,3,5,Topaz,1,Star Fragment,1,8,Topaz,3,Star Fragment,2,12,Topaz,5,Star Fragment,3,20,Topaz,10,Star Fragment,4
+Trousers of Twilight,Armor of Twilight,none,Amiibo,3,5,Topaz,1,Star Fragment,1,8,Topaz,3,Star Fragment,2,12,Topaz,5,Star Fragment,3,20,Topaz,10,Star Fragment,4
+Warm Doublet,None,Cold Resistance,Gift from Old Man,1
+Well-Worn Trousers,Worn,None,Chest in Shrine of Resurrection,1
+Cap of the Wild,Armor of the Wild,None,A Gift from the Monks (Side Quest),4,7,Acorn,10,Farosh's Scale,2,12,Courser Bee Honey,5,Farosh's Claw,2,18,Energetic Rhino Beetle,5,Farosh's Fang,2,28,Star Fragment,1,Farosh's Horn,2
+Tunic of the Wild,Armor of the Wild,None,A Gift from the Monks (Side Quest),4,7,Acorn,10,Naydra's Scale,2,12,Courser Bee Honey,5,Naydra's Claw,2,18,Energetic Rhino Beetle,5,Naydra's Fang,2,28,Star Fragment,1,Naydra's Horn,2
+Trousers of the Wild,Armor of the Wild,None,A Gift from the Monks (Side Quest),4,7,Acorn,10,Dinraal's Scale,2,12,Courser Bee Honey,5,Dinraal's Claw,2,18,Energetic Rhino Beetle,5,Dinraal's Fang,2,28,Star Fragment,1,Dinraal's Horn,2
+Cap of the Wind,Armor of the Wind,None,Amiibo,3,5,Opal,3,Star Fragment,1,8,Opal,5,Star Fragment,2,12,Opal,10,Star Fragment,3,20,Opal,20,Star Fragment,4
+Tunic of the Wind,Armor of the Wind,None,Amiibo,3,5,Opal,3,Star Fragment,1,8,Opal,5,Star Fragment,2,12,Opal,10,Star Fragment,3,20,Opal,20,Star Fragment,4
+Trousers of the Wind,Armor of the Wind,None,Amiibo,3,5,Opal,3,Star Fragment,1,8,Opal,5,Star Fragment,2,12,Opal,10,Star Fragment,3,20,Opal,20,Star Fragment,4
+Zora Helm,Zora,Increases Speed while Swimming,Chest in Toto Lake,3,5,Lizalfos Horn,3,8,Lizalfos Talon,5,Hyrule Bass,5,12,Lizalfos Tail,5,Hearty Bass,5,20,Lizalfos Tail,10,Opal,15
+Zora Armor,Zora,Increases Speed while Swimming,Gift from King Dorephan,3,5,Lizalfos Horn,3,8,Lizalfos Talon,5,Hyrule Bass,5,12,Lizalfos Tail,5,Hearty Bass,5,20,Lizalfos Tail,10,Opal,15
+Zora Greaves,Zora,Increases Speed while Swimming,Lynel Safari (Side Quest),3,5,Lizalfos Horn,3,8,Lizalfos Talon,5,Hyrule Bass,5,12,Lizalfos Tail,5,Hearty Bass,5,20,Lizalfos Tail,10,Opal,15
